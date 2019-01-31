@@ -1,0 +1,10 @@
+C:\Users\inder\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\inder\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\inder\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\inder\source\repos\Assignment1\Assignment1\bin\Debug\nunit.framework.dll
+C:\Users\inder\source\repos\Assignment1\Assignment1\bin\Debug\nunit.framework.xml
+C:\Users\inder\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\inder\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\inder\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CopyComplete
+C:\Users\inder\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\inder\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
